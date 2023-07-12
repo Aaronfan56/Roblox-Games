@@ -1,8 +1,8 @@
 # Game Options With Template
 
-Simulator Template Link:
+Simulator Template Link: https://web.roblox.com/games/14042689701/Simulater-Template
 
-Tycoon Template Link: https://web.roblox.com/games/14042689701/Tycoon-Template
+Tycoon Template Link: 
 
 # Codes 
 
