@@ -6,6 +6,6 @@ Tycoon Template Link: https://web.roblox.com/games/14042689701/Tycoon-Template
 
 # Code
 
-Simulator Code Link:
+Simulator Code Link: https://github.com/Aaronfan56/Roblox-Games/tree/main/Simulater%20Game
 
 Tycoon Code Link:
