@@ -1,0 +1,3 @@
+.client.lua = local Script
+.server.lua = Script
+.lua = Module Script
