@@ -17,7 +17,7 @@ game.Players.PlayerAdded:Connect(function(player)
 	end)
 
 	if success then
-		Coins.Value = data
+		coins.Value = data
 	else
 		print("There was a error whilst getting your data")
 		warn(errormessage)
@@ -27,7 +27,7 @@ end)
 game.Players.PlayerRemoving:Connect(function(player)
 
 	local success, errormessage = pcall(function()
-		myDataStore:SetAsync(player.UserId.."-clicks", player.leaderstats.Coins.Value)
+		myDataStore:SetAsync(player.UserId.."-coins", player.leaderstats.coins.Value)
 	end)
 
 	if success then
