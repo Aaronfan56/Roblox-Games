@@ -4,7 +4,7 @@ Simulator Template Link: https://web.roblox.com/games/14042689701/Simulater-Temp
 
 Tycoon Template Link: 
 
-# Codes 
+# Codes
 
 Simulator Code: https://github.com/Aaronfan56/Roblox-Games/tree/main/Simulater%20Game
 
