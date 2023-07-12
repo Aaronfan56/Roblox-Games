@@ -1,5 +1,5 @@
 # Game Options
 
-Simulator Game Link:
+Simulator Template Link:
 
-Tycoon Game Link:
+Tycoon Template Link: https://web.roblox.com/games/14042689701/Tycoon-Template
